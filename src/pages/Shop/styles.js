@@ -24,3 +24,6 @@ export const SubHeader = styled.Text`
     color: #d3d3d3;
 `
 
+export const Search = styled.TouchableOpacity`
+    margin-top: 5px;
+`

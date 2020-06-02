@@ -61,7 +61,7 @@ export const GuestButton = styled.TouchableOpacity`
     border-radius: 8px;
     justify-content: center;
     align-items: center;
-    top: 150px;
+    top: 180px;
 `
 
 export const GuestText = styled.Text`

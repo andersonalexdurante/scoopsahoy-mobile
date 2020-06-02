@@ -10,7 +10,7 @@ export default function Login() {
     const navigation = useNavigation()
 
     function guestLogin() {
-        navigation.navigate('Shop')
+        navigation.navigate('Tabs')
     }
 
     return (
