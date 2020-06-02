@@ -11,7 +11,7 @@ export default function Tabs() {
     const Tab = createMaterialBottomTabNavigator()
 
     return (
-        <Tab.Navigator labeled={false} barStyle={{backgroundColor: '#fff'}} >
+        <Tab.Navigator labeled={false} barStyle={{backgroundColor: '#fff'}} activeColor='pink'>
             <Tab.Screen name="Shop" component={Shop} 
                 options={{
                     tabBarIcon: ({ color }) => (

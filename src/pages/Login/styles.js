@@ -57,7 +57,7 @@ export const Forgot = styled.Text`
 export const GuestButton = styled.TouchableOpacity`
     width: 250px;
     height: 45px;
-    background-color: #fdd44b;
+    background-color: pink;
     border-radius: 8px;
     justify-content: center;
     align-items: center;
